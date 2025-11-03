@@ -98,3 +98,16 @@ body {
     text-decoration: underline;
 }
 
+.input-group input.error {
+    border-color: #e74c3c;
+}
+
+.input-group input-sucess {
+    border-color: #2ecc71;
+}
+
+.error-message {
+    color: #e74c3c;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+}
